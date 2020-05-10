@@ -1,2 +1,2 @@
 # SHALA2020
-Summer course for ML
+Summer course for Data Science, Machine Learning and Deep Learning offered bu IITB.
